@@ -30,6 +30,8 @@
 
 .portfolio__item:hover .portfolio__hover {
     opacity: 1;
+    padding: 30px;
+    text-align: center;
 }
 
 .portfolio__title {

@@ -122,7 +122,7 @@ export const personalInfo = [
 export const stats = [
   {
     id: 1,
-    no: "1",
+    no: "1.5",
     title: "Years of <br /> Experience",
   },
 
@@ -250,7 +250,7 @@ export const skills = [
   {
     id: 8,
     title: "Node js",
-    percentage: "45",
+    percentage: "60",
   },
 ];
 
@@ -370,7 +370,7 @@ export const portfolio = [
   {
     id: 5,
     img: Work5,
-    title: "Website Design",
+    title: "Lenskart-Project ",
     details: [
       {
         icon: <FiFileText />,
@@ -380,17 +380,17 @@ export const portfolio = [
       {
         icon: <FiUser />,
         title: "Client : ",
-        desc: "Dribble",
+        desc: "",
       },
       {
         icon: <FaCode />,
         title: "Language : ",
-        desc: "React JS, Node JS",
+        desc: "React Js",
       },
       {
         icon: <FiExternalLink />,
         title: "Preview : ",
-        desc: "https://github.com/golukumarsingh11/react-js-task",
+        desc: "https://github.com/HemantPawar8956/Lenskart-Project",
       },
     ],
   },
@@ -398,7 +398,7 @@ export const portfolio = [
   {
     id: 6,
     img: Work6,
-    title: "Website Design",
+    title: "Employee Management",
     details: [
       {
         icon: <FiFileText />,
@@ -418,7 +418,7 @@ export const portfolio = [
       {
         icon: <FiExternalLink />,
         title: "Preview : ",
-        desc: "https://github.com/golukumarsingh11/clock",
+        desc: "https://github.com/HemantPawar8956/React-Router-Crud",
       },
     ],
   },

@@ -18,10 +18,10 @@ const home = () => {
             <div>
               <TypeIt
                 options={{
-                  strings: ["Frontend Developer"],
+                  strings: ["Frontend Developer", "Mern Stack Developer"],
                   speed: 70,
                   waitUntilVisible: true,
-                  deleteSpeed: 90,
+                  deleteSpeed: 100,
                   loop: true,
                   loopDelay: 4000,
                 }}
